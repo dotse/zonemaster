@@ -163,7 +163,7 @@ respectively, from *Child Zone*.
 
 It is assumed that there are no unexpected errors on retreiving the
 NS records from *Child Zone* that have not been reported by
-[Basic04], [DNSSEC08] and [DNSSEC08].
+[Basic04], [DNSSEC08] and [DNSSEC09].
 
 ## Intercase dependencies
 
